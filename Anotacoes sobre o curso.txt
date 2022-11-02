@@ -1,0 +1,43 @@
+========== COMANDOS UTILIZADOS ==========
+
+PESQUISAR -> Programação funcional
+
+DOCUMENTAÇÂO Angular
+COMANDOS:
+https://angular.io/ -> DOCS -> References -> CLI Command References -> Overview -> onde existe todos os comandos
+
+ROTA LAZY LOADING:
+https://angular.io/guide/lazy-loading-ngmodules
+
+MATERIAL DESIGN | cores
+https://material.io/design/color/the-color-system.html#tools-for-picking-colors
+
+MATERIAL TABELA
+https://material.angular.io/components/table/overview
+
+
+Instalar o Angular -> npm install -g @angular/cli
+
+Criar o projeto -> ng new curso-angular
+
+Startar a aplicação -> ng serve ou ng s
+
+Instalar o Angular Material -> ng add @angular/material
+
+Criando o Módulo de Cursos com roteamento -> ng g m courses --routing
+
+Criando um componente dentro do Módulo -> ng g c courses/courses
+
+Criando uma interface -> ng g interface courses/model/course
+
+
+CURSO ANGULAR + SPRING 👆
+
+🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞
+
+CURSO ANGULAR 👇
+
+Curso Angular #07: Introdução aos Serviços e Injeção de Dependência (DI)
+
+											 cursos indica o diretório/ cursos indica o serviço
+Criando um serviço -> ng g service ou ng g s cursos/cursos
